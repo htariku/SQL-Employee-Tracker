@@ -143,7 +143,7 @@ function addEmployee() {
 }
 
     function viewAllDepartments() {
-    connection.query("SELECT * FROM departments", function (err, res) {
+    connection.query("SELECT * FROM department", function (err, res) {
         if (err) throw err;
         console.table(res);
         questions();

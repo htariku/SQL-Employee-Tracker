@@ -1,4 +1,3 @@
-SELECT * FROM departments INNER JOIN employee ON role_id = departments.id INNER JOIN role ON department_id = employee.id
 INSERT INTO department (name)
 VALUES 
 ("Finance"),
