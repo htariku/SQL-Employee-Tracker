@@ -1,7 +1,26 @@
 {
   "dependencies": {
     "console.table": "^0.10.0",
+    "express": "^4.17.3",
     "inquirer": "^8.2.0",
     "mysql2": "^2.3.3"
-  }
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "sql-employee-tracker",
+  "description": "",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/htariku/SQL-Employee-Tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/htariku/SQL-Employee-Tracker/issues"
+  },
+  "homepage": "https://github.com/htariku/SQL-Employee-Tracker#readme"
 }
