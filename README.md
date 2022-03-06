@@ -4,6 +4,9 @@ https://github.com/htariku/SQL-Employee-Tracker
 
 ## url link: 
 https://htariku.github.io/SQL-Employee-Tracker/
+
+## recording link:
+https://youtu.be/S9dExpYthTw
  
    # Description
 GIVEN a command-line application that accepts user input
